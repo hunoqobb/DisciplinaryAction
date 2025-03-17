@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+pandas>=1.3.0
+openpyxl>=3.0.7
+# sqlite3是Python标准库的一部分，不需要单独安装
+# 但如果需要sqlite3-utils工具，可以取消下面的注释
+# sqlite3-utils>=0.1
